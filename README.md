@@ -54,7 +54,8 @@ This project uses LangGraph to define a cyclical process where:
     # Required for the web search tool
     TAVILY_API_KEY="your_tavily_api_key_here"
     ```
-    *Note: `OPENAI_API_KEY` is not required as the LLM runs locally via Ollama.* 
+    
+    Get your key by signing up at [Tavily.com](https://tavily.com)
 
 ## Usage
 

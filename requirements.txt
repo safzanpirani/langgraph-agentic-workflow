@@ -5,7 +5,7 @@ langchain-nomic # For NomicEmbeddings
 langchain-ollama # For ChatOllama
 langchain-tavily # For Tavily Search
 # Vectorstore dependencies
-sklearn # Required by SKLearnVectorStore
+scikit-learn # Required by SKLearnVectorStore
 tiktoken # For text splitting
 # Optional for caching with parquet
 # pandas

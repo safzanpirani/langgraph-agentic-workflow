@@ -2,6 +2,8 @@
 
 A simple self-correcting and hallucination-checking RAG (Retrieval-Augmented Generation) workflow built using LangGraph, running LLMs locally via Ollama.
 
+![Workflow Graph](graph.png) 
+
 ## Features
 
 *   **Retrieval-Augmented Generation (RAG):** Leverages external knowledge sources (web search via Tavily and a local vector store) to enhance generation quality.
@@ -64,6 +66,4 @@ This project uses LangGraph to define a cyclical process where:
 
 Follow the terminal output to see the agent's reasoning and the final answer.
 
-## Workflow Graph
 
-![Workflow Graph](graph.png) 

@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-community # For loaders, vectorstores, tools
+langchain-nomic # For NomicEmbeddings
+langchain-ollama # For ChatOllama
+langchain-tavily # For Tavily Search
+# Vectorstore dependencies
+sklearn # Required by SKLearnVectorStore
+tiktoken # For text splitting
+# Optional for caching with parquet
+# pandas
+# pyarrow
+python-dotenv # For .env file loading 

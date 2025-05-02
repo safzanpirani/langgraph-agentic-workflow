@@ -28,7 +28,7 @@ This project uses LangGraph to define a cyclical process where:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/safzanpirani/langgraph-agentic-workflow
     cd langgraph-agentic-workflow
     ```
 2.  **Install Ollama:**

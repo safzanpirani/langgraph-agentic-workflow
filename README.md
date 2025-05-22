@@ -67,4 +67,8 @@ This project uses LangGraph to define a cyclical process where:
 
 Follow the terminal output to see the agent's reasoning and the final answer.
 
+## Live Demo
+
+Watch a live demonstration of the agentic RAG workflow in action: [Click here to watch the demo](https://youtu.be/R6m7HTd3YjM).
+
 
